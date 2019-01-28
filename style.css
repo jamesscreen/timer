@@ -1,0 +1,15 @@
+#wrap{
+  width: 100%;
+  text-align: center;
+}
+#timer{
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  font-size: 5.5em;
+  font-weight: bold;
+}
+.button{
+  margin-top: 10px;
+}
